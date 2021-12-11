@@ -1,0 +1,21 @@
+{
+  "/_app": "pages/_app.js",
+  "/about": "pages/about.js",
+  "/api/hello": "pages/api/hello.js",
+  "/blog-two": "pages/blog-two.js",
+  "/blog": "pages/blog.js",
+  "/blog/[id]": "pages/blog/[id].js",
+  "/cart": "pages/cart.js",
+  "/checkout": "pages/checkout.js",
+  "/contact": "pages/contact.js",
+  "/gallery-two": "pages/gallery-two.js",
+  "/gallery": "pages/gallery.js",
+  "/": "pages/index.js",
+  "/service": "pages/service.js",
+  "/service/[id]": "pages/service/[id].js",
+  "/shop": "pages/shop.js",
+  "/shop/[id]": "pages/shop/[id].js",
+  "/team": "pages/team.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}
